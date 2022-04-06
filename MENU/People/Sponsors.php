@@ -39,13 +39,17 @@ document.getElementById("hsi").src="../../images/"+(di+1)+".jpg";
 <br /><br />
 <br /> 
 The VDTT program currently has five main sponsors:
-<ul>
-<li>Aura Semiconductors
-<li>Cadence Design Systems
-<li>MediaTek
-<li>Qualcomm
-<li>Silicon Laboratories
-</ul>
+<table>
+<thead>
+<td>Sponsor</td><td>Sponsor's main website</td><td></td>
+</thead>
+<tr>
+<td>Aura Semiconductors</td><td><a href="http://www.aurasemi.com/">aurasemi.com</a></td><td> <img src="../../images/aurasemi.png"></td>
+<td>Cadence Design Systems</td><td><a href="http://www.cadence.com/">cadence.com</a></td><td> <img src="../../images/cadence.png"></td>
+<td>MediaTek</td><td><a href="http://www.mediatek.com/">mediatek.com</a></td><td> <img src="../../images/mediatek.png"></td>
+<td>Qualcomm</td><td><a href="http://www.qualcomm.com/">qualcomm.com</a></td><td> <img src="../../images/qualcomm.png"></td>
+<td>Silicon Laboratories</td><td><a href="http://www.silabs.com/">silabs.com</a></td><td> <img src="../../images/silabs.png"></td>
+</table>
 </div>
 </div>
 </div>
