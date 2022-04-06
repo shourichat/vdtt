@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>VLSI Design Tools And Technology</title>
+<title>VLSI Design Tools And Technology: Sponsors</title>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" href="../../css/style.css" type="text/css" media="all" />
 <link rel="stylesheet" href="../../css/jquery.jcarousel.css" type="text/css" media="all" />
@@ -27,22 +27,43 @@ document.getElementById("nas").src="../../images/"+di+".jpg";
 document.getElementById("hsi").src="../../images/"+(di+1)+".jpg";
 }
 </script>
+
+<STYLE>
+table {
+	border-collapse:collapse;
+	border:1px solid black;
+}
+
+td {
+	padding:10px;
+}
+
+tr {
+	padding:10px;
+}
+
+img {
+	border:0;
+	height:50px;
+}
+
+
+
+</STYLE>
+
 </head>
 <body>
 <!-- START PAGE SOURCE -->
 <?php include '../../header.html'; ?>
 <div id="main">
 <div class="shell">
+<!--
 <div class="boxes">
-<div id="contentfull" class="left">
-<h2>Sponsors</h2>
+<div id="contentfull" class="left">-->
+<h1>Sponsors</h1>
 <br /><br />
 <br /> 
-The VDTT program currently has five main sponsors:
 <table>
-<thead>
-<td>Sponsor</td><td>Sponsor's main website</td><td></td>
-</thead>
 <tr>
 <td>Aura Semiconductors</td><td><a href="http://www.aurasemi.com/">aurasemi.com</a></td><td> <img src="../../images/aurasemi.png"></td>
 </tr><tr>
@@ -52,13 +73,14 @@ The VDTT program currently has five main sponsors:
 </tr><tr>
 <td>Qualcomm</td><td><a href="http://www.qualcomm.com/">qualcomm.com</a></td><td> <img src="../../images/qualcomm.png"></td>
 </tr><tr>
-<td>Silicon Laboratories</td><td><a href="http://www.silabs.com/">silabs.com</a></td><td> <img src="../../images/silabs.png"></td>
+<td><a href="silabs.php">Silicon Laboratories</a></td><td><a href="http://www.silabs.com/">silabs.com</a></td><td> <img src="../../images/silabs.png"></td>
 </tr>
 </table>
 </div>
 </div>
+<!--
 </div>
-</div>
+</div>-->
 <?php include '../../footer.html'; ?>
 
 </body>
