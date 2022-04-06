@@ -45,10 +45,15 @@ The VDTT program currently has five main sponsors:
 </thead>
 <tr>
 <td>Aura Semiconductors</td><td><a href="http://www.aurasemi.com/">aurasemi.com</a></td><td> <img src="../../images/aurasemi.png"></td>
+</tr><tr>
 <td>Cadence Design Systems</td><td><a href="http://www.cadence.com/">cadence.com</a></td><td> <img src="../../images/cadence.png"></td>
+</tr><tr>
 <td>MediaTek</td><td><a href="http://www.mediatek.com/">mediatek.com</a></td><td> <img src="../../images/mediatek.png"></td>
+</tr><tr>
 <td>Qualcomm</td><td><a href="http://www.qualcomm.com/">qualcomm.com</a></td><td> <img src="../../images/qualcomm.png"></td>
+</tr><tr>
 <td>Silicon Laboratories</td><td><a href="http://www.silabs.com/">silabs.com</a></td><td> <img src="../../images/silabs.png"></td>
+</tr>
 </table>
 </div>
 </div>
