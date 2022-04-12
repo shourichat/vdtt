@@ -73,7 +73,7 @@ img {
 </tr><tr>
 <td>Qualcomm</td><td><a href="http://www.qualcomm.com/">qualcomm.com</a></td><td> <img src="../../images/qualcomm.png"></td>
 </tr><tr>
-<td><a href="silabs.php">Silicon Laboratories</a></td><td><a href="http://www.silabs.com/">silabs.com</a></td><td> <img src="../../images/silabs.png"></td>
+<td><a href="silabs.php">Silicon Labs</a></td><td><a href="http://www.silabs.com/">silabs.com</a></td><td> <img src="../../images/silabs.png"></td>
 </tr>
 </table>
 </div>
