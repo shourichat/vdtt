@@ -59,8 +59,8 @@ the VDTT program.
 A Silabs fellow in the M.Tech program will be required to complete
 both MTP part-1 and MTP part-2.
 <li class="padded">
-The thesis is required to be in the areas of design and hardware
-areas, through concurrence with Silabs. The goal of the MTech is to
+The thesis is required to be in the areas of
+analog and mixed-signal IC design, RF IC design, digital IC design, and signal processing through concurrence with Silabs. The goal of the MTech is to
 refine talents for Analog, RF, and C/MSP hardware.
 <li class="padded">
 It is expected that based on the fellow's academic performance and
