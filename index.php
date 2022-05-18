@@ -61,7 +61,7 @@ Program Coordinator - VDTT</h3></div><br />
 		<p align="left">
 <a href=  "/MENU/Admissions/vdtt_sc_2022.pdf" style="text-decoration:none"><span style="text-decoration:underline"> 
 Shortlisting criteria 2022</span></a> <font color=red> &nbsp;&nbsp;&nbsp;NEW</font> <br /><br />
-<a href=  "/MENU/Placements/VDTT_2020_BROCHURE.pdf">Department Brochure</span></a> <font color=red> &nbsp;&nbsp;&nbsp;NEW</font> <br /><br />
+<a href=  "/MENU/Placements/VDTT_2022_BROCHURE.pdf">Department Brochure</span></a> <font color=red> &nbsp;&nbsp;&nbsp;NEW</font> <br /><br />
 
 		<a href="http://admissions.iitd.ac.in/psp/app/EMPLOYEE/EMPL/c/EPPCM_CONTENT_MGMT.EPPCM_NWDSPART.GBL?Page=EPPCM_NWDSPSEC&Action=U&PORTALPARAM_PNM=EMPLOYEE&PORTALPARAM_PID=2063&PORTALPARAM_CID=2065&PORTALPARAM_AID=2409&PORTALPARAM_PUB=P&PortalIsPagelet=true" target="_parent">Important Dates </a><br /><br />
        		
